@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<asynchttpclient.version>2.6.0</asynchttpclient.version>
 		<rxjava.version>2.2.4</rxjava.version>
-		<fasterxml.jackson.version>2.8.5</fasterxml.jackson.version>
+		<fasterxml.jackson.version>2.9.7</fasterxml.jackson.version>
 		<kafka.version>2.0.0</kafka.version>
 	</properties>
 
